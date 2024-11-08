@@ -1,1 +1,9 @@
-# boot-project-3
+![GitHub repo size](https://img.shields.io/github/repo-size/RubenDguez/book-search-engine)
+![GitHub contributors](https://img.shields.io/github/contributors/RubenDguez/book-search-engine)
+![GitHub last commit](https://img.shields.io/github/last-commit/RubenDguez/book-search-engine)
+![GitHub license](https://img.shields.io/github/license/RubenDguez/book-search-engine)
+![MongoDB](https://img.shields.io/badge/database-MongoDB-green)
+![Apollo-GraphQL](https://img.shields.io/badge/API-GraphQL-orange)
+![React](https://img.shields.io/badge/frontend-React-blue)
+![Node.js](https://img.shields.io/badge/backend-Node.js-yellow)
+![npm](https://img.shields.io/badge/npm-v10.8.3-blue)
