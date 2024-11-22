@@ -23,7 +23,7 @@ describe('<Login />', () => {
   it('should display login header', () => {
     cy.findByTestId('login-header').should('exist');
     cy.findByTestId('login-header').should('be.visible');
-    cy.findByTestId('login-header').should('have.text', 'Login');
+    cy.findByTestId('login-header').should('have.text', 'LOGIN');
   });
   it('should display login form', () => {
     cy.findByTestId('login-form').should('exist');
@@ -36,7 +36,7 @@ describe('<Login />', () => {
   it('should display username label', () => {
     cy.get('#username-label').should('exist');
     cy.get('#username-label').should('be.visible');
-    cy.get('#username-label').should('have.text', 'Username *');
+    cy.get('#username-label').should('have.text', 'Username / Email *');
   });
   it('should display username input', () => {
     cy.get('#username').should('exist');
